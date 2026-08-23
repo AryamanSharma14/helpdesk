@@ -1,0 +1,6 @@
+app_name = "helpdesk_ai"
+app_title = "Helpdesk AI"
+app_publisher = "Frappe"
+app_description = "Rule-based traceback analysis for Frappe Helpdesk"
+app_version = "0.0.1"
+app_license = "MIT"

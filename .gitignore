@@ -1,0 +1,48 @@
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.Python
+
+# Node.js / Next.js
+node_modules/
+.next/
+.nuxt/
+dist/
+build/
+.cache/
+
+# Environment & secrets
+.env
+.env.*
+*.env
+!.env.example
+firebase-service-account*.json
+serviceAccount*.json
+*service_account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Claude
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Models / large binaries
+*.pkl
+*.h5
+*.bin
+
